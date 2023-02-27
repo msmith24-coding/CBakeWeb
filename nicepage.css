@@ -40802,14 +40802,10 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-btn-1 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin: -46px 4px 29px auto;
-  padding: 3px 30px 5px;
+  margin: -46px 31px 29px auto;
+  padding: 4px 21px 4px 20px;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 105px;
-  }
-
   .u-header .u-group-elements-1 {
     width: 206px;
     margin-left: 17px;
